@@ -2,7 +2,7 @@ import {mazegen} from './mazegen.js';
 
 const _CONFIG_WIDTH = 1920;
 const _CONFIG_HEIGHT = 1080;
-const _TILES_X = 64;
+const _TILES_X = 20;
 const _TILES_Y = _TILES_X / 2;
 const _TIME_PER_STEP = 1.0 / 30.0;
 
